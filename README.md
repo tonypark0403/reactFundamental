@@ -13,6 +13,7 @@ Use react-hot-loader for Hot Module Reload
 
 Install
 npm install -g webpack webpack-dev-server
+npm install --save-dev react-hot-loader
 npm install
 npm run dev-server
 Default port is 4000, configured in webpack.config.js
